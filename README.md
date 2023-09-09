@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Greve2001)](https://github.com/Greve2001/github-readme-stats)
+
+
 <!--
 **Greve2001/Greve2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
